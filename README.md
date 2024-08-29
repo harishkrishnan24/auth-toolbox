@@ -1,3 +1,16 @@
+# Application Preview
+
+![Application Preview](https://github.com/harishkrishnan24/auth-toolbox/blob/main/auth-toolbox.gif)
+
+## Project Features
+
+- Server-side Rendering using Next.js
+- TailwindCSS and ShadCN UI for styling
+- Prisma as ORM
+- TypeScript for static type-checking
+- Neon for Database
+- NextAuth for handling authentication
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
